@@ -3,7 +3,7 @@ import Foundation
 class GeminiAPI {
     static let shared = GeminiAPI()
 
-    private let apiKey = "AIzaSyD2QbT4q5t1FKmKTn9LlNBigVLdjD9ajyc" // 활성화된 API 키 사용
+    private let apiKey = "" // 활성화된 API 키 사용
     private let apiUrl = "https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent"
 
     func fetchRecommendations(using ingredients: [String], completion: @escaping (Result<[String], Error>) -> Void) {
