@@ -13,7 +13,7 @@
 개발 환경: swift, Gemini API, Xcode, coreML, createML
 
 UserFlow:
-
+![이미지 이름](https://github.com/rivermin01/ingredientManager/blob/main/dddddd.jpg)
 
 
 기능 명세서: 
